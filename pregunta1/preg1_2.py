@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 12 21:25:33 2022
-
 @author: Alvaro
 """
 
